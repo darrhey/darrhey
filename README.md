@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @darrhey
-- 👀 I’m interested in web and software development
-- 🌱 I’m currently learning javascript aand flutter
+- 👀 I’m interested in data science, database management, web and software development
+- 🌱 I’m currently learning html, css, javascript and python
 - 💞️ I’m looking to collaborate on present and future projects
 - 📫 How to reach me 
 
